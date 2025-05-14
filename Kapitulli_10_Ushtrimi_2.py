@@ -6,4 +6,4 @@ numerues = 0
 for karakter in stringu:
     numerues += 1
 
-print("Numri i karaktereve:=", numerues)
+print("Numri i karaktereve:", numerues)
